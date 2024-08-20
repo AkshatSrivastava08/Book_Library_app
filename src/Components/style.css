@@ -9,8 +9,8 @@
     width: 25%;
 } */
 :root{
-    --primary-color:#755139FF;
-    --secondary-color:#D4B996FF;
+    --primary-color:#84A98C;
+    --secondary-color:#F8F8F8;
 }
 body{
     background-color: var(--primary-color);
